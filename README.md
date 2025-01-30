@@ -30,7 +30,7 @@ Global Synchronizer CIPs
 | [cip-0032](/cip-0032-0033-0034-0036-0038-0039-0040/cip-0032-0033-0034-0036-0038-0039-0040.pdf) | | Add Lukka as a Tier3 SV (Weight 1) | Eric Saraniecki| Governance   | Final |
 | [cip-0033](/cip-0032-0033-0034-0036-0038-0039-0040/cip-0032-0033-0034-0036-0038-0039-0040.pdf) | | Add Strange Pixels as a Tier4 SV (Weight 0.5) | Eric Saraniecki| Governance   | Rejected   |
 | [cip-0034](/cip-0032-0033-0034-0036-0038-0039-0040/cip-0032-0033-0034-0036-0038-0039-0040.pdf) | | Add Proof Group as a Tier3 SV (Weight 1) | Eric Saraniecki| Governance   | Final |
-| [cip-0035](cip-0035) |  | Add Five North as a Tier2 SV (Weight 3) | Eric Saraniecki| Governance   | Final |
+| [cip-0035](/cip-0035/cip-0035.pdf) |  | Add Five North as a Tier2 SV (Weight 3) | Eric Saraniecki| Governance   | Final |
 | [cip-0036](/cip-0032-0033-0034-0036-0038-0039-0040/cip-0032-0033-0034-0036-0038-0039-0040.pdf) | | Add Kiln as a Tier3 SV (Weight 1)| Eric Saraniecki| Governance   | Final |
 | [cip-0037](cip-0037) |  | Add Obsidian as a Tier3 SV (Weight 1)   | Eric Saraniecki| Governance   | Draft |
 | [cip-0038](/cip-0032-0033-0034-0036-0038-0039-0040/cip-0032-0033-0034-0036-0038-0039-0040.pdf) |  | Add Hexagate as a Tier3 SV (Weight 1) | Eric Saraniecki| Governance   | Final |
