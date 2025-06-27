@@ -1,7 +1,9 @@
-If a CIP is added make sure that:
-- README.md is changed and index in README.md is updated to include the new CIP
-- Values of headers in the CIP match those in the Index
-- There is "Changelog" section at the botton of the CIP text with the date and oneliner explaining the changes
+Review the changes considering the mandatory requirements below.
 
-If an existing CIP is updated make sure that:
-- One more record is added to the Changelog with the date and oneliner explaining the changes
+If a new CIP (Canton Improvement Proposal) is added, make sure that:
+- README.md is updated and the CIP is added to the table of CIPs in README.md.
+- The header values in the CIP match those in the table.
+- A "Changelog" section is present at the bottom of the CIP, with the date and a one-liner explaining the changes.
+
+If an existing CIP is updated, make sure that:
+- A new record is added to the Changelog with the date and a one-liner explaining the changes.
