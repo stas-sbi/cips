@@ -1,4 +1,4 @@
-Review the changes considering the mandatory requirements below.
+Review the changes considering the mandatory requirements below. Provide the review comments in a concise format.
 
 Make sure the changes don't have obvious inconsistencies or spelling mistakes.
 
