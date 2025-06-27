@@ -1,7 +1,7 @@
 If a CIP is added make sure that:
-- Index in README.md is updated
+- README.md is changed and index in README.md is updated to include the new CIP
 - Values of headers in the CIP match those in the Index
-- Changelog is added at the botton of the CIP text
+- There is "Changelog" section at the botton of the CIP text with the date and oneliner explaining the changes
 
 If an existing CIP is updated make sure that:
-- Changelog is updated
+- One more record is added to the Changelog with the date and oneliner explaining the changes
