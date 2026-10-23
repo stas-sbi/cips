@@ -9,23 +9,23 @@ More information can be found in [CIP-0000](../../cips/cip-0000/cip-0000.md).
 ## Title
 
 <pre>
-  CIP: <CIP number, or "?" before being assigned>
-* Layer: <TBD> [TBD see Layer definition cip-XXXX](../../cips/blob/main/cip-XXXX).
-  Title: <CIP title; maximum 44 characters>
-  Author: <list of authors' real names>
-* Discussions-To: <link to the cip-discuss topic where this CIP is being discussed, e.g. https://lists.sync.global/g/cip-discuss/topic/<topic-slug>/<topic-id>>
-* Comments-Summary: <summary tone>
-* Comments-URI: <links to wiki page for comments>
-  Status: <Draft | Active | Proposed | Deferred | Rejected |
-           Withdrawn | Final | Replaced | Obsolete>
+  CIP: < CIP number, or "?" before being assigned >
+* Layer: < TBD > [TBD see Layer definition cip-XXXX](../../cips/blob/main/cip-XXXX).
+  Title: < CIP title; maximum 44 characters >
+  Author: < list of authors' real names >
+* Discussions-To: < link to the cip-discuss topic where this CIP is being discussed, e.g. https://lists.sync.global/g/cip-discuss/topic/< topic-slug >/< topic-id > >
+* Comments-Summary: < summary tone >
+* Comments-URI: < links to wiki page for comments >
+  Status: < Draft | Active | Proposed | Deferred | Rejected |
+           Withdrawn | Final | Replaced | Obsolete >
   Type: Governance 
-  Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
-  License: <abbreviation for approved license(s)>
-* License-Code: <abbreviation for code under different approved license(s)>
-* Post-History: <link(s) to cip-discuss topic(s) discussing this CIP, added once the discussion has concluded or the CIP is merged>
-* Requires: <CIP number(s)>
-* Replaces: <CIP number>
-* Superseded-By: <CIP number>
+  Created: < date created on, in ISO 8601 (yyyy-mm-dd) format >
+  License: < abbreviation for approved license(s) >
+* License-Code: < abbreviation for code under different approved license(s) >
+* Post-History: < link(s) to cip-discuss topic(s) discussing this CIP, added once the discussion has concluded or the CIP is merged >
+* Requires: < CIP number(s) >
+* Replaces: < CIP number >
+* Superseded-By: < CIP number >
 </pre>
 
 ## Abstract
